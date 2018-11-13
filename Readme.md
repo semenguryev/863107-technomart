@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Семен Гурьев](https://up.htmlacademy.ru/htmlcss/23/user/863107).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Пойманов](https://htmlacademy.ru/profile/poymanov).
 
 ---
 
